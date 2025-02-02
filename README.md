@@ -5,11 +5,12 @@
 
 
 ## 🌟 About Me
-I'm a CS graduate student at Northeastern University with a strong passion for solving complex problems and building impactful software. I thrive in collaborative environments and enjoy contributing to meaningful projects that make a difference.
+I'm a recent Computer Science graduate from Northeastern University with a strong passion for solving complex problems and building impactful software. I thrive in collaborative environments and enjoy contributing to meaningful projects that make a difference.
 
 - 📍 Based in Vancouver, BC, Canada 🇨🇦
-- 🎓 Graduate student specializing in **Software Engineering**.
-- 🌱 Currently diving deeper into **Green Software Development** and **Sustainable Innovation**.
+- 🎓 Computer Science graduate specializing in Software Engineering.
+- 🌱 Currently freelancing as a developer, working on diverse projects and exploring innovative tech solutions.
+
 
 ## 🛠 Tech Stack
 ### Programming Languages:
