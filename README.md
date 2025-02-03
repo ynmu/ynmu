@@ -4,15 +4,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ynmu)
 
 
-## 🌟 About Me
+## About Me
 I'm a recent Computer Science graduate from Northeastern University with a strong passion for solving complex problems and building impactful software. I thrive in collaborative environments and enjoy contributing to meaningful projects that make a difference.
 
 - 📍 Based in Vancouver, BC, Canada 🇨🇦
-- 🎓 Computer Science graduate specializing in Software Engineering.
-- 🌱 Currently freelancing as a developer, working on diverse projects and exploring innovative tech solutions.
+- Computer Science graduate specializing in Software Engineering, currently freelancing as a software developer.
+- My
 
 
-## 🛠 Tech Stack
+## Tech Stack
 ### Programming Languages:
 - Python, Java, JavaScript/TypeScript, C/C++, SQL, Ruby, Rust
 
@@ -22,7 +22,7 @@ I'm a recent Computer Science graduate from Northeastern University with a stron
 - PostgreSQL, MySQL, MongoDB
 - Docker, Git/GitHub, CI/CD Pipelines
 
-## 💡 Achievements and Projects
+## Achievements and Projects
 - 🥈 **2nd Place at YVR 2024 Hackathon**  
   - Designed and implemented a **Predictive Maintenance System** to enhance energy efficiency and promote sustainability.
 
