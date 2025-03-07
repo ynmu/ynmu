@@ -9,7 +9,6 @@ I'm a recent Computer Science graduate from Northeastern University with a stron
 
 - 📍 Based in Vancouver, BC, Canada 🇨🇦
 - Computer Science graduate specializing in Software Engineering, currently freelancing as a software developer.
-- My
 
 
 ## Tech Stack
